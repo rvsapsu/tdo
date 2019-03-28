@@ -1,2 +1,0 @@
-# tdo
-TDM-TDO operations 
