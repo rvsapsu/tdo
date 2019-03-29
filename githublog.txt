@@ -1,0 +1,4 @@
+2019/03/28 19:10:22 : Batch started.
+2019/03/28 19:10:27 : TRPM_IM_WBEDIT-1.0 processed successfully.
+2019/03/28 19:10:28 : TWBM-1.0 processed successfully.
+2019/03/28 19:10:28 : Batch completed.
